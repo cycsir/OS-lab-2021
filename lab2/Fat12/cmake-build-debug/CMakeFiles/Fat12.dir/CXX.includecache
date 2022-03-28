@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cyc/apps/clion/Fat12/main.cpp
+fstream
+-
+iostream
+-
+cstring
+-
+assert.h
+-
+regex
+-
+

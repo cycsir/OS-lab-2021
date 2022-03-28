@@ -1,0 +1,17 @@
+megs:128
+#模拟器的内存  
+
+romimage:file=/home/cyc/envs/bochs-2.7/bios/BIOS-bochs-latest
+#这个是BIOS-bochs-latest的路径，可能不一样
+
+vgaromimage:file=/home/cyc/envs/bochs-2.7/bios/VGABIOS-lgpl-latest  
+#这个是VGABIOS-lgpl-latest的路径，也可能不一样
+
+floppya:1_44=a.img,status=inserted
+#这个是启动软盘,在当前目录下，如果不在当前目录，需要指明路径  
+
+boot:floppy  
+#表示从软盘启动
+
+log:bochsout.txt  
+#日志输出文件

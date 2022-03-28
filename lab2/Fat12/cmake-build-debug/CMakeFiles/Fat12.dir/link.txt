@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Fat12.dir/main.cpp.o -o Fat12 

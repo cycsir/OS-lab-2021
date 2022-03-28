@@ -1,0 +1,3 @@
+/home/cyc/apps/clion/Fat12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cyc/apps/clion/Fat12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cyc/apps/clion/Fat12/cmake-build-debug/CMakeFiles/Fat12.dir

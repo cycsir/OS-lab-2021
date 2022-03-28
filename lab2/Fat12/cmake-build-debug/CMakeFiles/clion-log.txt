@@ -1,0 +1,4 @@
+/snap/clion/169/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/cyc/apps/clion/Fat12
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cyc/apps/clion/Fat12/cmake-build-debug
